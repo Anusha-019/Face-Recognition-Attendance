@@ -1,0 +1,53 @@
+{
+    "lAgv3D0WkoIzgz9YJxEsSKY7XduVIAQYk7Bt7EmKgFo": {
+        "username": "admin",
+        "role": "admin",
+        "name": "System Admin",
+        "permissions": [
+            "manage_employees",
+            "manage_attendance",
+            "view_reports",
+            "manage_users",
+            "delete_records",
+            "export_data",
+            "system_settings",
+            "view_logs"
+        ],
+        "created_at": "2025-05-30 11:45:43",
+        "expires_at": "2025-05-31 11:45:43"
+    },
+    "Cl1BmTYSymUHKOAE_lHlUCIoP_GAtzs9eqrZ6Xkj3aI": {
+        "username": "admin",
+        "role": "admin",
+        "name": "System Admin",
+        "permissions": [
+            "manage_employees",
+            "manage_attendance",
+            "view_reports",
+            "manage_users",
+            "delete_records",
+            "export_data",
+            "system_settings",
+            "view_logs"
+        ],
+        "created_at": "2025-05-30 11:52:09",
+        "expires_at": "2025-05-31 11:52:09"
+    },
+    "mYq_tOpqXFfOWO0_iqDltRh812qPQaCq7LIEdvoXYj8": {
+        "username": "admin",
+        "role": "admin",
+        "name": "System Admin",
+        "permissions": [
+            "manage_employees",
+            "manage_attendance",
+            "view_reports",
+            "manage_users",
+            "delete_records",
+            "export_data",
+            "system_settings",
+            "view_logs"
+        ],
+        "created_at": "2025-07-09 09:31:14",
+        "expires_at": "2025-07-10 09:31:14"
+    }
+}
